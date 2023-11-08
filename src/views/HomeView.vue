@@ -15,9 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa Sukamulya</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Terlaksananya tata Kelola pemerintahan desa yang baik dan bersih guna mewujudkan kehidupan Masyarakat desa yang adil,Makmur dan Sejahtera.”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
